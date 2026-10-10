@@ -37,7 +37,7 @@ pip install discord.py
 在主程式中貼入 Token 後執行：
 
 ```bash
-python full_nuke.py
+python app.py
 ```
 
 ## 👨‍💻 專案資訊 (Project Info)
